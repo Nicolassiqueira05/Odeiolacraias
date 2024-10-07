@@ -4,7 +4,7 @@ html{
     justify-content: center;
 }
 body{
-    width:75vw;
+    width:60vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
